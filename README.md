@@ -33,3 +33,7 @@ Data yang digunakan didalam laporan ini adalah data Wine quality (Kualitas Wine)
 Tipe data atribut dan class yang ada di dataset wine ialah, memiliki tipe data float untuk data atribut dan tipe data integer untuk data class. Dan dataset wine memiliki 1599 jumlah dari.
 <br>
 ![image](https://user-images.githubusercontent.com/73381115/205674977-9faa8250-2864-4d83-87b0-c4c18b97e260.png)
+
+
+## Metode
+Metode yang akan digunakan yaitu, akan menggunakan metode klasifikasi Decision tree dan clustering K-Means. Untuk metode klasifikasi akan dilakukan perbandingan hasil antara metode decision tree dan metode random forest dan juga akan ada perbandingan dengan metode Logistic regression.
