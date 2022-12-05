@@ -9,6 +9,7 @@ Pekerjaan Ujian Akhir Data Mining
 ## Deskripsi Data
 ### Content Data (Dataset Wine Quality)
 Data yang digunakan didalam laporan ini adalah data Wine quality (Kualitas Wine) data ini didapatkan di website kaggle yang menyediakan opendataset. Dataset wine quality memiliki 12 kolom data yang dimana terdapat 11 atribut dan 1 class.
+- [Dataset Wine Quality](https://github.com/koreoxy/Uas_Data_Mining/blob/main/winequality.csv)
 
 ### List dataset Wine Quality
 1. Data Atribut :
